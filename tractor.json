@@ -1,0 +1,182 @@
+[
+    {
+        "name": "M.N Agro Manual Weeder, Hand Weeder loaded with Coolant.",
+        
+        "price": "673.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/mahan-ghw-8--blade-8-inch-manual-weeder-hand-weeder-with-and-8-inch-hoes-easy-to-use-light-weight.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_b8ecbbd53f0e6172db0a7f31d6038ebd-11-20-21-18-02-28.jpg"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/swaraj-855-fe-1694259363.webp?format=webp",
+        "name": "Swaraj 855 FE is a superb tractor that comes from the house",
+        "category": "tractor",
+        "price": "7.00 lac",
+        "link": "https://www.tractorjunction.com/swaraj-tractor/855-fe/"
+    },
+    {
+        "name": "Vinspire Agricultural Manual Seed Sowing Machine.",
+        
+        "price": "8228.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/vinspire-agricultural-manual-seed-sowing-machine-adjustable-mouth.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_819c8f859f680704757d9b4ee0a2f461-10-17-23-17-58-37.jpeg"
+    },
+    {
+        "name": "Pad Corp Angel Ganu 36cc 4 Stroke Power Sprayer all about power",
+        
+        "price": "10849.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/pad-corp-ganu-knapsack-power-sprayer-with-2-stroke-engine-15-ltr.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_be475433afd2bce970440739bea9beb3-11-29-23-12-09-27.jpg"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/265-di-1632210883.webp?format=webp",
+        "name": "Mahindra 265 DI,Mahindra tractors lie in the best results",
+        "category": "tractor",
+        "price": "4.95 lac",
+        "link": "https://www.tractorjunction.com/mahindra-tractor/265-di/"
+    },
+    {
+        "name": "Pad Corp Portable Electric ULV Fogger Machine.",
+        "quantity": "1.00 no",
+        "price": "13649.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/ulv-sprayer-online--best-electric-fogger-machine-online-india.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_98c89af664c3319e952b585c33eaed25-01-12-22-10-11-38.jpg"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/5050-d-1632220934.webp?format=webp",
+        "name": "John Deere 5050 D Valuable and Convinient features.",
+        "category": "tractor",
+        "price": "8.00 lac",
+        "link": "https://www.tractorjunction.com/john-deere-tractor/5050-d/"
+    },
+    
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/mahindra-arjun-novo-605-dii-4wd-1698917936.webp?format=webp",
+        "name": "Mahindra ARJUN NOVO 605 DI–i-4WD Other Features",
+        "category": "tractor",
+        "price": "10.65 lac",
+        "link": "https://www.tractorjunction.com/mahindra-tractor/arjun-605-di-4wd/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/yuvraj-215-nxt-1632209478.webp?format=webp",
+        "name": "Mahindra Yuvraj 215 NXT  comes with super advanced technology",
+        "category": "tractor",
+        "price": "3.40 lac",
+        "link": "https://www.tractorjunction.com/mahindra-tractor/yuvraj-215-nxt/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/575-di-xp-plus-1632207330.webp?format=webp",
+        "name": "Mahindra 575 DI XP Plus has best-in-class features",
+        "category": "tractor",
+        "price": "6.99 lac",
+        "link": "https://www.tractorjunction.com/mahindra-tractor/575-di-xp-plus/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/255-di-power-plus-1632206290.webp?format=webp",
+        "name": "Mahindra 255 DI Power Plus, With the water-cooled system",
+        "category": "tractor",
+        "price": "4.15 lac",
+        "link": "https://www.tractorjunction.com/mahindra-tractor/255-power-plus/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/241-di-maha-shakti-1632209992.webp?format=webp",
+        "name": "Swaraj 744 FE offers 3136 CC powerful engine capacity",
+        "category": "tractor",
+        "price": "6.90 lac",
+        "link": "https://www.tractorjunction.com/swaraj-tractor/744-fe/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/275-di-eco-1632305472.webp?format=webp",
+        "name": "Mahindra 275 DI ECO rich with an extra advanced technologica",
+        "category": "tractor",
+        "price": "5.15 lac",
+        "link": "https://www.tractorjunction.com/mahindra-tractor/275-eco/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/swaraj-744-fe-1694259976.webp?format=webp",
+        "name": "Massey Ferguson 241 DI MAHA SHAKTI a powerful tractor",
+        "category": "tractor",
+        "price": "4.65 lac",
+        "link": "https://www.tractorjunction.com/massey-ferguson-tractor/241-di-maha-shakti/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/5310-4wd-1632222789.webp?format=webp",
+        "name": "John Deere 5310 4WD model which is designed with highly advanced",
+        "category": "tractor",
+        "price": "9.88 lac",
+        "link": "https://www.tractorjunction.com/john-deere-tractor/5310-4wd/"
+    },
+    {
+        "img": "https://assets.tractorjunction.com/tractor-junction/assets/images/upload/735-fe-1631013770.webp?format=webp",
+        "name": "Swaraj 735 FE tractor provides high efficiency in minimum uses of fuel",
+        "category": "tractor",
+        "price": "5.88 lac",
+        "link": "https://www.tractorjunction.com/swaraj-tractor/735-fe/"
+    },
+    {
+        "name": "Balwaan S-2 Agricultural Double Barrel Manual Seeder.",
+        "price": "3790.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/buy-balwaan-s-2-agricultural-double-barrel-manual-seeder.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_f19f74b76ccb089b132ffd219e4a597a-06-13-23-17-20-34.JPG"
+    },
+    {
+        "name": "Pad Corp Suzo Lithium-Ion Battery Sprayer With Belt",
+        "quantity": "1.00 no",
+        "price": "4049.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/pad-corp-suzo-lithium-ion-battery-sprayer-10-liter-tank-capacity.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_eea4d8a8feab55df3805d55f5af70e05-10-01-22-15-21-41.jpeg"
+    },
+    {
+        "name": "Siddhi Plastic Seedling Nursery Tray , Best Quality ,cost-effective",
+        "quantity": "25.00 qty",
+        "price": "749.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/siddhi-plastic-seedling-nursery-tray-with-126-cavities-agribegri.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_01e802f9bdba092cba4aa72e550f9c10-08-06-22-10-39-11.jpg"
+    },
+    {
+        "name": "Solar All In One Pole Light With Remote water-cooled technology",
+        "quantity": "1.00 set",
+        "price": "3213.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/solar-all-in-one-pole-light-30w-with-remotewithout-pole-.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_68fcb81fd6ca6f6fc7aa58ec368ff3d9-08-04-22-18-45-53.jpg"
+    },
+    {
+        "name": "Pad Corp Manual Operated Sprayer 16 Litre Tank.",
+        
+        "price": "2372.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/buy-16-liter-spray-machine-online--spray-pump-with-nozzle-set.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_15128566741699000364.jpeg"
+    },
+    {
+        "name": "Pest-N-Trol Mosquito or Insect Killer Machine produce high yields.",
+        
+        "price": "29899.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/buy-uv-lamp-mosquito-trap-machine-online--cwm4000xl-machine.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_59e7a02c489c58bcc28bfa7ada375837-01-21-22-19-46-31.jpg"
+    },
+    {
+        "name": "Mahan GHH-1.8 Manual Hand Weeder With Long 4.3 chamber.",
+        
+        "price": "926.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/hand-weeder-with-long-handle--buy-18-inch-hand-weeder-online.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_a076c12e9886d75a32e8f77317361474-06-16-23-16-03-42.JPG"
+    },
+    {
+        "name": "BHAGIRATH Mulching Film, Mulching Paper, Mulch Sheet.",
+        
+        "price": "2888.00",
+        "category": "equipment",
+        "link": "https://agribegri.com/products/iuh.php",
+        "img": "https://agribegri.com/admin/images/prod_image/thumb/thumb_e8698dec4275235e680f09928beee1b9-10-13-21-12-43-32.jpg"
+    }
+]
